@@ -4,6 +4,6 @@ Free, zero-dependency alternatives to paid software — rebuilt from scratch (cl
 
 Website: https://altklin.github.io
 
-| Tool | Description |
+| Project | Description |
 |---|---|
-| [Vektor](https://github.com/AltKlin/Vektor) | PNG → SVG converter for Gran Turismo 7 decals, under 15 KB per file |
+| [Vektor](https://github.com/AltKlin/Vektor) | PNG → SVG converter for Gran Turismo 7 decals: faithful vectorization under 15 KB, zero dependencies. |
